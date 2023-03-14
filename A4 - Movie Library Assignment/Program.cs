@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            string file = $"{Environment.CurrentDirectory}/data/movies.csv";
+            string file = @"D:\repos\.net database\A4 - Movie Library Assignment\A4 - Movie Library Assignment\movies.csv";
 
             if (!File.Exists(file))
             {
