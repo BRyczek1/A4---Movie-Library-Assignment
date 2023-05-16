@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A4 - Movie Library Assignment", "A4 - Movie Library Assignment\A4 - Movie Library Assignment.csproj", "{0625568C-1430-4965-8B8F-DA73B5AF0E84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A4 - Movie Library Assignment", "A4 - Movie Library Assignment\A4 - Movie Library Assignment.csproj", "{0625568C-1430-4965-8B8F-DA73B5AF0E84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7204820C-5642-47A8-96CA-CA8884DDFD21}"
+	ProjectSection(SolutionItems) = preProject
+		Movie.cs = Movie.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
